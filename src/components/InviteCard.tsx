@@ -30,7 +30,7 @@ const InviteCard: React.FC = () => {
           </p>
           <p>
             <strong>Local:</strong>{' '}
-            <span className="text-[#cb4f57]"> Rua Ary Colen, 415 F, Funcionários</span>
+            <span className="text-[#cb4f57]"> Rua xxx xxxxxx, xxx x, Bairro</span>
           </p>
         </div>
 
@@ -43,7 +43,7 @@ const InviteCard: React.FC = () => {
         }}
         onClick={() =>
             window.open(
-            'https://wa.me/5538984043859?text=Olá!%20Gostaria%20de%20confirmar%20minha%20presença%20na%20noite%20das%20amigas!',
+            'https://wa.me/5599999999999?text=Olá!%20Gostaria%20de%20confirmar%20minha%20presença%20na%20noite%20das%20amigas!',
             '_blank'
             )
         }
